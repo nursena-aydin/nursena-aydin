@@ -12,7 +12,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nursena-aydin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Meme Corner
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
